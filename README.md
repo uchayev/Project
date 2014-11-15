@@ -1,3 +1,3 @@
-Учебный проект "Опросник".
-Условное название: Система создания онлай-тестирования
-Цель: Создание полноценной системы онлайн-тестирования. Система будет иметь админ часть и клиентскую часть.
+﻿Training project "Inquirer"
+Conditional title: Online testing creating system.
+Target: Creating a completely developed system of online testing. The system will have the admin part and the client part.
