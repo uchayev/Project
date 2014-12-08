@@ -1,5 +1,7 @@
 jQuery(function($){
 
+	// alert("hello");
+
 	$('a#menu_login').click(function(e){
 		e.preventDefault();
 		$('#mask').fadeIn('fast');

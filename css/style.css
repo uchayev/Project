@@ -89,7 +89,7 @@ nav li{
 	border-right:1px solid transparent;
 }
 nav li:hover{
-	background: #41E3F5;
+	background: #41E3F5;/*#E43F1F*/
 	border-left:1px solid #999;
 	border-right:1px solid #999;
 }
@@ -178,13 +178,13 @@ input[type="text"]:focus, input[type="password"]:focus{
 	box-shadow: #fff 0 0 1em;
 }
 .error {
-	background: #f60000;
-	border: 3px solid #d50000;
+	background:#dc0000;/*#f60000*/
+	border: 3px solid #b80000;/*#d50000*/
 	z-index: 1000;
 }
 .correct {
-	background: #56d800;
-	border: 3px solid #008000;
+	background:#52b900;/*#56d800*/
+	border: 3px solid #008000;/*#008000*/
 	z-index: 1000;
 }
 .wrong {
